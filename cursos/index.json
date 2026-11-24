@@ -1,0 +1,25 @@
+{
+  "sitio": {
+    "nombre": "Cursos de Actualización en Cirugía Pediátrica",
+    "organiza": "Servicio de Cirugía Pediátrica · Hospital Dr. Roberto del Río",
+    "contacto": "",
+    "logos": [
+      { "nombre": "Hospital Dr. Roberto del Río", "archivo": "assets/logos/hrr.png" },
+      { "nombre": "Universidad de Chile · Facultad de Medicina", "archivo": "assets/logos/uchile.png" }
+    ]
+  },
+  "actual": "proximo",
+  "cursos": [
+    {
+      "id": "proximo",
+      "titulo": "Próximo curso — tema por confirmar",
+      "fecha": "",
+      "fechaTexto": "Fecha por confirmar"
+    },
+    {
+      "id": "2026-07-hirschsprung",
+      "titulo": "Conversemos sobre Hirschsprung",
+      "fecha": "2026-07-24"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2026-07-hirschsprung",
+  "serie": "Curso de Actualización en Cirugía Pediátrica HRR 2026",
+  "titulo": "Conversemos sobre Hirschsprung",
+  "fecha": "2026-07-24",
+  "horaInicio": "08:00",
+  "horaFin": "13:30",
+  "modalidad": "Presencial",
+  "lugar": {
+    "nombre": "Auditorio Meneghello",
+    "detalle": "Hospital Dr. Roberto del Río",
+    "direccion": "Av. Profesor Zañartu 1085, Independencia, Santiago",
+    "mapa": "https://www.google.com/maps/search/?api=1&query=Hospital+Roberto+del+Rio+Santiago"
+  },
+  "directores": ["Dra. Maricarmen Olivos", "Dr. José Campos V.", "Dr. Sebastián Feuerhake"],
+  "hospitalInvitado": "Hospital Dr. Exequiel González Cortés",
+  "destinatarios": "Médicos y enfermeras de los servicios de cirugía, neonatología, gastroenterología, pediatría y anestesia; becados e internos rotantes por estos servicios, de hospitales pediátricos de Chile.",
+  "objetivoGeneral": "Actualizar a los médicos, enfermeras y otros profesionales de salud del Hospital Roberto del Río y hospitales afines en el diagnóstico, manejo quirúrgico, cuidados perioperatorios y seguimiento de pacientes pediátricos con enfermedad de Hirschsprung.",
+  "objetivosEspecificos": [
+    "Fortalecer la comunicación y colaboración entre especialistas de distintos centros para mejorar la continuidad de la atención y sentar las bases de futuros protocolos institucionales de manejo colorrectal pediátrico.",
+    "Aprender sobre el diagnóstico histopatológico de la enfermedad de Hirschsprung, incluyendo el rol de las tinciones y de la inteligencia artificial en la evaluación de la biopsia rectal.",
+    "Conocer las controversias actuales y las recomendaciones basadas en evidencia sobre la técnica y el momento óptimo del descenso colónico, incluyendo el manejo neonatal versus diferido.",
+    "Actualizar el manejo perioperatorio y postoperatorio en cirugía colorrectal: ERAS, dilataciones, irrigaciones, dermatitis perianal y toxina botulínica.",
+    "Favorecer la discusión entre cirujanos pediátricos, neonatólogos, pediatras, enfermería y otros profesionales, recogiendo la experiencia local de los equipos participantes."
+  ],
+  "formato": "Cada tema se aborda en 30 minutos: 15 minutos de síntesis de la evidencia y 15 minutos de conversación.",
+  "horasPedagogicas": "10 horas pedagógicas (incluye 5 horas de material bibliográfico enviado la semana previa)",
+  "evaluacion": "No hay evaluación formativa. Solo se solicita retroalimentación a los asistentes.",
+  "certificacion": "Certificado de asistencia para todos los inscritos que completen la retroalimentación.",
+
+  "links": {
+    "inscripcion": "",
+    "transmision": { "plataforma": "", "url": "", "id": "", "clave": "" },
+    "retroalimentacion": "",
+    "encuestas": [],
+    "materialCarpeta": "",
+    "grabacion": ""
+  },
+
+  "logistica": [
+    { "icono": "cafe", "titulo": "Café", "texto": "11:00 – 11:30 h, gentileza de Colegio Médico Regional Santiago." }
+  ],
+
+  "programa": [
+    { "inicio": "08:00", "fin": "08:15", "titulo": "Acreditación", "tipo": "pausa" },
+    { "inicio": "08:15", "fin": "08:30", "titulo": "Palabras de bienvenida", "docente": "Dr. Sebastián Feuerhake" },
+    { "inicio": "08:30", "fin": "09:00", "titulo": "Colostomía e ileostomía: indicaciones", "docente": "Dra. Andrea Ramos" },
+    { "inicio": "09:00", "fin": "09:30", "titulo": "Tinciones e IA en biopsia rectal", "docente": "Dra. Pamela Pizarro" },
+    { "inicio": "09:30", "fin": "10:00", "titulo": "Temporalidad del descenso: período neonatal vs diferido", "docente": "Dr. Marco Valenzuela" },
+    { "inicio": "10:00", "fin": "10:30", "titulo": "Descenso colónico: ¿existe una técnica mejor que otra?", "docente": "Dra. Macarena Arce" },
+    { "inicio": "10:30", "fin": "11:00", "titulo": "Protocolos ERAS en cirugía colorrectal", "docente": "Dra. Gabriela Zavala" },
+    { "inicio": "11:00", "fin": "11:30", "titulo": "Café", "nota": "Gentileza de COLMED Regional Santiago", "tipo": "pausa" },
+    { "inicio": "11:30", "fin": "12:00", "titulo": "Dilataciones e irrigaciones postoperatorias: ¿sí o no?", "docente": "Dr. Iván Alcoholado" },
+    { "inicio": "12:00", "fin": "12:30", "titulo": "Dermatitis perianal: prevención y manejo", "docente": "EU Constanza Olivares", "nota": "Corporación MATER" },
+    { "inicio": "12:30", "fin": "13:00", "titulo": "Evaluación del paciente postoperado de enfermedad de Hirschsprung que no anda bien", "docente": "Dra. Celeste Patiño" },
+    { "inicio": "13:00", "fin": "13:30", "titulo": "Mitos y realidades en toxina botulínica: aplicaciones en cirugía colorrectal", "docente": "Dra. Maricarmen Olivos" }
+  ],
+
+  "material": [],
+
+  "instituciones": [
+    { "nombre": "Servicio de Cirugía Pediátrica, Hospital Roberto del Río", "logo": "assets/logos/hrr.png" },
+    { "nombre": "Facultad de Medicina, Universidad de Chile, Sede Norte", "logo": "assets/logos/uchile.png" },
+    { "nombre": "Servicio de Cirugía Pediátrica, Hospital Exequiel González Cortés", "logo": "" },
+    { "nombre": "Colegio Médico de Chile, Regional Santiago", "logo": "" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "proximo",
+  "serie": "Curso de Actualización en Cirugía Pediátrica HRR",
+  "titulo": "Tema por confirmar",
+  "fecha": "",
+  "fechaTexto": "Fecha por confirmar",
+  "horaInicio": "08:00",
+  "horaFin": "13:30",
+  "modalidad": "Híbrida (presencial y en línea)",
+  "lugar": {
+    "nombre": "Auditorio Meneghello",
+    "detalle": "Hospital Dr. Roberto del Río",
+    "direccion": "Av. Profesor Zañartu 1085, Independencia, Santiago",
+    "mapa": "https://www.google.com/maps/search/?api=1&query=Hospital+Roberto+del+Rio+Santiago"
+  },
+  "directores": ["Por confirmar"],
+  "hospitalInvitado": "",
+  "destinatarios": "Médicos, enfermeras y otros profesionales de salud de servicios pediátricos; becados e internos rotantes.",
+  "objetivoGeneral": "Por completar.",
+  "objetivosEspecificos": [],
+  "formato": "Cada tema se aborda en 30 minutos: 15 minutos de síntesis de la evidencia y 15 minutos de conversación.",
+  "horasPedagogicas": "",
+  "evaluacion": "Sin evaluación formativa. Se solicita retroalimentación a los asistentes.",
+  "certificacion": "Certificado de asistencia para los inscritos que completen la retroalimentación.",
+
+  "links": {
+    "inscripcion": "",
+    "transmision": { "plataforma": "Zoom", "url": "", "id": "", "clave": "" },
+    "retroalimentacion": "",
+    "encuestas": [
+      { "titulo": "Encuesta previa: ¿qué temas te interesan?", "url": "" },
+      { "titulo": "Encuesta de satisfacción", "url": "" }
+    ],
+    "materialCarpeta": "",
+    "grabacion": ""
+  },
+
+  "logistica": [
+    { "icono": "acceso", "titulo": "Acreditación", "texto": "Desde las 08:00 h en la entrada del auditorio. Trae tu cédula de identidad." },
+    { "icono": "cafe", "titulo": "Café", "texto": "Pausa a media mañana frente al auditorio. Patrocinio por confirmar." },
+    { "icono": "almuerzo", "titulo": "Almuerzo", "texto": "Por confirmar: indicar si se ofrece almuerzo o alternativas cercanas." },
+    { "icono": "estacionamiento", "titulo": "Estacionamiento", "texto": "Por confirmar: cupos en el hospital y estacionamientos cercanos." },
+    { "icono": "wifi", "titulo": "Wi-Fi", "texto": "Red y clave se entregan en la acreditación." }
+  ],
+
+  "programa": [
+    { "inicio": "08:00", "fin": "08:15", "titulo": "Acreditación", "tipo": "pausa" },
+    { "inicio": "08:15", "fin": "08:30", "titulo": "Palabras de bienvenida", "docente": "Dirección del curso" },
+    { "inicio": "08:30", "fin": "09:00", "titulo": "Tema 1 por confirmar", "docente": "" },
+    { "inicio": "09:00", "fin": "09:30", "titulo": "Tema 2 por confirmar", "docente": "" },
+    { "inicio": "09:30", "fin": "10:00", "titulo": "Tema 3 por confirmar", "docente": "" },
+    { "inicio": "10:00", "fin": "10:30", "titulo": "Tema 4 por confirmar", "docente": "" },
+    { "inicio": "10:30", "fin": "11:00", "titulo": "Café", "tipo": "pausa" },
+    { "inicio": "11:00", "fin": "11:30", "titulo": "Tema 5 por confirmar", "docente": "" },
+    { "inicio": "11:30", "fin": "12:00", "titulo": "Tema 6 por confirmar", "docente": "" },
+    { "inicio": "12:00", "fin": "12:30", "titulo": "Tema 7 por confirmar", "docente": "" },
+    { "inicio": "12:30", "fin": "13:00", "titulo": "Tema 8 por confirmar", "docente": "" },
+    { "inicio": "13:00", "fin": "13:30", "titulo": "Conversación final y cierre", "docente": "Dirección del curso" }
+  ],
+
+  "material": [
+    { "titulo": "Ejemplo: artículo de revisión (reemplazar)", "url": "", "detalle": "PDF en Drive, acceso solo para inscritos" }
+  ],
+
+  "instituciones": [
+    { "nombre": "Servicio de Cirugía Pediátrica, Hospital Roberto del Río", "logo": "assets/logos/hrr.png" },
+    { "nombre": "Facultad de Medicina, Universidad de Chile, Sede Norte", "logo": "assets/logos/uchile.png" }
+  ]
+}
